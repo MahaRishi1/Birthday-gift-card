@@ -4,6 +4,7 @@ body{
     /* background-color: #003049; */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #ffee99;
+    background-repeat: no-repeat;
 }
 a:hover{
     color: whitesmoke;

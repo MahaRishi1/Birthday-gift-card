@@ -7,6 +7,7 @@ body{
     font-family: 'funnyfont';
     color: #ffffff;
     background: linear-gradient(#ade8f4,#023e8a);
+    background-repeat: no-repeat;
 }
 #a2{
     color: #ff8fa3;

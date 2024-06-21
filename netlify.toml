@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/hover.html"
+status = 200

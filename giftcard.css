@@ -1,0 +1,109 @@
+@font-face {
+    font-family: funnyfont;
+    src: url(LuckyCoin-3zA46.ttf);
+}
+body{
+    text-align: center;
+    font-family: 'funnyfont';
+    color: #ffffff;
+    background: linear-gradient(#ade8f4,#023e8a);
+}
+#a2{
+    color: #ff8fa3;
+}
+
+#a2:hover{
+    color: white;
+    text-shadow: 0 1px 3px #800f2f;
+}
+
+.dp{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #EFB0C9;
+    margin-bottom: 10px;
+    box-shadow: 1px 1px 3px #590d22;
+    background-image: url(jerrydp.jpg);
+    background-size: cover;
+}
+.dp:hover{
+    background-image: url(jerrygif.gif);
+}
+h1, h3,p{
+    text-shadow: 0 1px 3px #03045e;
+}
+#foot{
+    color: #06d6a0;
+    text-shadow: 0 1px 3px black;
+}
+h1:hover,h3:hover,p:hover{
+    color:#9c6644;
+    text-shadow: 0 1px 4px #dde5b6;
+}
+
+#bday-age {
+    background: #ffc8dd;
+    padding: 4px 8px 4px 8px;
+    border-radius: 10px;
+    text-shadow: 0 0 2px #590d22;
+    margin-bottom: 12px;
+    box-shadow: 1px 1px 2px #590d22;
+}
+
+#bday-age:hover{
+    background-color: #ff8fa3;
+}
+
+#bday-date {
+    background: #ffc8dd;
+    padding: 4px 8px 4px 8px;
+    border-radius: 5px;
+    text-shadow: 0 0px 2px #590d22;
+    box-shadow: 1px 1px 2px #590d22;
+}
+#bday-date:hover{
+    background-color: #ff8fa3;
+}
+
+#header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gift-cover{
+    margin: 0 auto;
+    margin-bottom: 50px;
+    width:450px;
+    height: 450px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 5px #780000;
+    background-image: url(pinkgift.jpg);
+    background-size: cover;
+}
+
+.gift-cover:hover{
+    background-image:url(cupcake-happy-birthday.gif);
+}
+
+#gift-cover2{
+    margin: 0 auto;
+    margin-top: 10px;
+    width:450px;
+    height: 450px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 5px #780000;
+    background-image: url(pinkgift.jpg);
+    background-size: cover;
+}
+#gift-cover2:hover{
+    background-image: url(awesomegif.gif);
+}
+
+h3{
+    margin:0;
+}
+p{
+    margin-top: 0;
+    margin-bottom : 10px;
+}

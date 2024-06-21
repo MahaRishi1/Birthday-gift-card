@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background: linear-gradient(#023e8a,#0077b6);
+    /* background-color: #003049; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffee99;
+}
+a:hover{
+    color: whitesmoke;
+    text-shadow: 0px 0px 2px #ffff3f;
+
+}
+a{
+    color:#ffee99;
+}
+h1:hover,p:hover{
+    color: whitesmoke;
+    text-shadow: 0px 0px 2px #ffff3f;
+}
+h4{
+    margin-top: 400px;
+    color: #c1121f;
+}
